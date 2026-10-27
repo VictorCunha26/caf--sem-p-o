@@ -1,0 +1,13 @@
+PÁGINA DE VENDAS — VERSÃO RÁPIDA E ANIMADA
+
+Abra index.html para visualizar localmente. No Render, publique os arquivos desta pasta no mesmo serviço existente; mantenha index.html e a pasta assets juntos.
+
+Preços exibidos: Básico R$ 18,90 | Premium R$ 27,90.
+Checkouts preservados:
+Básico: https://pay.cakto.com.br/atzkcj2_1227959
+Premium: https://pay.cakto.com.br/36uw668_1114070
+Pixel Meta: 1749841796120540
+
+IMPORTANTE: Confirme os preços dentro da Cakto e teste os eventos PageView e InitiateCheckout no Gerenciador de Eventos depois do deploy. O evento Purchase deve vir da integração da Cakto, não da landing page. Confira também os parâmetros UTM com um clique real vindo dos anúncios.
+
+Melhorias: imagens otimizadas em WebP, carregamento diferido do conteúdo, capa priorizada, animações leves e acessíveis, sem bibliotecas externas.

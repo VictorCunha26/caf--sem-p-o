@@ -1,9 +1,0 @@
-Pixel Meta instalado: 1749841796120540
-
-Eventos nesta página:
-- PageView: quando a página carrega
-- InitiateCheckout: clique no botão de compra de cada plano, com valor e moeda BRL
-  Básico: R$ 21,90 → https://pay.cakto.com.br/atzkcj2_1227959
-  Premium: R$ 32,90 → https://pay.cakto.com.br/36uw668_1114070
-
-Importante: esta landing page NÃO dispara Purchase. Para medir compras concluídas, configure o pixel na Cakto para disparar Purchase no pagamento aprovado (ou via integração de conversões/API), evitando contagem duplicada. Teste os eventos com Meta Events Manager > Test Events e Meta Pixel Helper em uma URL publicada. Extensões que bloqueiam rastreadores podem impedir o carregamento do pixel.
